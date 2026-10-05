@@ -1,0 +1,1 @@
+{"name":"revo-review-bot-no-slash","version":"1.0.0","private":true,"description":"REVO review bot with no slash commands.","main":"index.js","scripts":{"start":"node index.js","check":"node --check index.js"},"dependencies":{"discord.js":"14.27.0"},"engines":{"node":">=22.12.0 <25"}}
